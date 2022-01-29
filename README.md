@@ -1,2 +1,5 @@
 # This is my ReadMe
-Put any extra information or notes here.
+
+Lab 3 Phase 2 Submission
+
+Authors : Julian Murillo, Michael Greene, Eugenia Morales
